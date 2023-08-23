@@ -1,1 +1,1 @@
-# actividad numero 1 poo
+# Solucionario de ejercicios de seguimiento 1
